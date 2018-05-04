@@ -1,5 +1,5 @@
 {
-  "name": "muplugin/book-filter-amp",
+  "name": "axelspringer/wp-mu-book-filter-amp",
   "type": "wordpress-muplugin",
   "description": "Whether a post should be skipped for AMP.",
   "keywords": [
@@ -10,11 +10,15 @@
     {
       "name": "Stefan Schwager",
       "homepage": "http://www.axelspringer.de"
+    },
+    {
+      "name": "Mathias Witt",
+      "homepage": "http://www.axelspringer.de"
     }
   ],
-  "homepage": "https://as-stash.axelspringer.de/projects/WPMUP/repos/book-filter-amp",
-  "license": "proprietary",
+  "homepage": "https://github.com/axelspringer/wp-mu-book-filter-amp",
+  "license": "Apache-2.0",
   "extra": {
-    "installer-name": "book-filter-amp"
+    "installer-name": "wp-mu-book-filter-amp"
   }
 }
