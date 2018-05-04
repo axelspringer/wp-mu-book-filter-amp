@@ -1,1 +1,1 @@
-# wp-mu-book-filter-amp-
+# wp-mu-book-filter-amp
